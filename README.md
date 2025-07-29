@@ -5,6 +5,8 @@ DJSng's Tips is a personalized tip resource pack with a bunch of references, bui
 
 **This resource pack only works if you have Tips for 1.16.3 or later.** A 1.12 version is not planned at this time, as it requires editing the configuration file.
 
+If you need an older version, [check us out on the Internet Archive](https://archive.org/details/djsng-tips)!
+
 # Installation
 1. Install a version of [Tips](modrinth.com/mod/tips) for 1.16 or later
 2. Download the latest release in [Releases](https://github.com/DJSng-Toolkit/Tips/releases)
