@@ -21,4 +21,5 @@ Minecraft uses a specific character to use color codes in pack descriptions, and
 Just fork this repo and play around for ideas. Remember to read [Tip's documentation on how to add new entries](https://github.com/Darkhax-Minecraft/Tips/wiki/Latest-Documentation)!
 
 # License
-DJSng's Tips is licensed under Unlicense, which you can read more about [here](LICENSE).
+DJSng's Tips is licensed under Unlicense, which you can read more about [here](LICENSE).  
+The logo used by DJSng's Toolkit (and DJSng's Tips) was created by [AL-E](https://github.com/fem-al-e). All rights reserved.
