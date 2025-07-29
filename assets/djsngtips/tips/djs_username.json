@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Fun fact",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "DJSng is a shortening of the two previous usernames! The DJS stands for \"DjStuff\" and ng stands for \"New Generation\".",
+    "bold": false,
+    "color": "white"
+  }
+}

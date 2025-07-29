@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Fun fact",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "The first known version of Dj's site was found in early 2025, and was reported to be a version from November 2020. It contained nothing that was seen on Korephase.cf, which came months after.",
+    "bold": false,
+    "color": "white"
+  }
+}

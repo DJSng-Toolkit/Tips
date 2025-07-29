@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Fun fact",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "The name of the organization that has Dj's resources, \"DJSng's Toolkit\", is named after a couple of private modpacks that was created the weeks prior. That modpack later became the basis for the 1.21.x branch of Toolkit, DT's gaming resources project.",
+    "bold": false,
+    "color": "white"
+  }
+}

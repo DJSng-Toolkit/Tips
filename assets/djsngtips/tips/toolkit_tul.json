@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Fun fact",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "DJSng's Toolkit's gaming resources project, Toolkit, is inspired by TheUsefulLists and it's predecessors. It inspired Dj to want to share their config through a curated list of mods both featured on TUL and favored by Dj.",
+    "bold": false,
+    "color": "white"
+  }
+}

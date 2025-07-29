@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Fun fact",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "Dj went under the name Kore some time in 2021 as an alternative name. It would later be shitposted for being related to a Spongebob AMV of a WWE theme.",
+    "bold": false,
+    "color": "white"
+  }
+}

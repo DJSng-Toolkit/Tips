@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Fun fact",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "Dj (back then) became a moderator of the Discord Rich presence project Music Presence. They were a member from October 2024 and was super active in the Music Presence community since joining.",
+    "bold": false,
+    "color": "white"
+  }
+}

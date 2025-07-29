@@ -1,0 +1,12 @@
+{
+  "title": {
+    "text": "Fun fact",
+    "bold": true,
+    "color": "green"
+  },
+  "tip": {
+    "text": "Dj's first dive into a website was not just Neocities, it was actually a self-hosted project! It originally used the (now expired) domain korephase.cf and was ran as a shitpost and ripoff of a friend's shitpost website.",
+    "bold": false,
+    "color": "white"
+  }
+}
